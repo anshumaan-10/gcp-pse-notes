@@ -1,5 +1,5 @@
 # Professional Cloud Security Engineer 
-
+ 
 | | | |
 | :---:         |     :---      |          :--- |
 | **Official Description:** | https://cloud.google.com/certification/cloud-security-engineer/ |  
