@@ -1,8 +1,8 @@
-# Professional Cloud Security Engineer
+# Professional Cloud Security Engineer 
 
 | | | |
 | :---:         |     :---      |          :--- |
-| **Official Description:** | https://cloud.google.com/certification/cloud-security-engineer/ | 
+| **Official Description:** | https://cloud.google.com/certification/cloud-security-engineer/ |  
 | **Length:** | 2 hours | 
 | **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
 | **Experience:** | Advanced - Professional | 
