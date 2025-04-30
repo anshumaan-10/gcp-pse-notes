@@ -1,4 +1,4 @@
-# GCP Security Study Plan
+# GCP Security Study Plan 
 I am making the study plan irrespective of job role under GCP Security category. It can be Cloud Security Analyst, Cloud Security Researcher or Cloud Security Engineer or Cloud Security Operations Expert or Cloud Security Manager or Cloud Governance.
  
 So, check how much you can cover and learn practically. The more you are good at these concepts, the better candidate you are for the job role.
